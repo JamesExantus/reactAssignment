@@ -1,0 +1,29 @@
+React Assignment
+
+For this assignment, we want to give you all the opportunity to choose an application that you'd like to build over the next 
+couple of weeks. You should be thinking of this as a project that you will add to your resume or portfolio. You will 
+work on the project in multiple iterations, with deliverables for each day of work that build upon the concepts we have covered
+in morning lessons. Choose an application from the examples below and complete the deliverables for this iteration outlined below.
+
+
+
+Personal Budget Tracker (Easy): This is a simple application that allows users to manage their personal finances.
+
+To-Do List (Easy): A classic application to help users manage their tasks.
+
+Recipe Finder (Medium): This application allows users to search for recipes based on various criteria.
+
+Book Review Forum (Medium): This application allows users to search for books, read and post reviews, and save favorite books.
+
+
+
+Deliverables for Iteration 2:
+
+
+
+Recipe Finder
+
+Expand the existing React project with the file structure created in Iteration 1.
+Implement state management using React's useState hook to store and update the list of recipes.
+Add functionality to allow users to search for recipes based on various criteria (e.g., ingredient, cuisine, etc.).
+Style the list of recipes using CSS to enhance the user experience.
